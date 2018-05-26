@@ -1,2 +1,3 @@
 # hello-world
-First harv-CS50 course task.
+I am a Skyrim Guard who too an arrow to the knee. 
+Now I need another sit down type job.
